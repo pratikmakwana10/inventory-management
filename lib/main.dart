@@ -13,6 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Inventory Management',
       theme: ThemeData(
+        //oidsjv
+
         colorScheme: ColorScheme.fromSwatch().copyWith(
           primary: Colors.blue,
           secondary: Colors.blueAccent,
